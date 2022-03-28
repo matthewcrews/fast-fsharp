@@ -1,0 +1,14 @@
+baseURL = 'https://fastfsharp.com/'
+languageCode = 'en-us'
+title = 'Fast F#'
+
+[params]
+
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo = 'https://github.com/matthewcrews/fast-fsharp'
+
+  # Enable 'Edit this page' links for 'doc' page type.
+  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+  # Path must point to the site directory.
+  BookEditPath = 'edit/master/fast-fsharp'
