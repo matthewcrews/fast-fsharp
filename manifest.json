@@ -1,14 +1,14 @@
 {
   "name": "Fast F#",
   "short_name": "Fast F#",
-  "start_url": "/matthewcrews/fast-fsharp/",
-  "scope": "/matthewcrews/fast-fsharp/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/matthewcrews/fast-fsharp/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
