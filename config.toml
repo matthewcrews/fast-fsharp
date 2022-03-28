@@ -1,6 +1,7 @@
 baseURL = 'https://github.com/matthewcrews/fast-fsharp'
 languageCode = 'en-us'
 title = 'Fast F#'
+theme = 'hugo-book'
 
 [params]
 
