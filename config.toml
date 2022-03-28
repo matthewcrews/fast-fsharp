@@ -12,4 +12,4 @@ theme = 'hugo-book'
   # Enable 'Edit this page' links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Path must point to the site directory.
-  BookEditPath = 'blob/main/fast-fsharp'
+  BookEditPath = 'blob/main'
