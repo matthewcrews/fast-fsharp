@@ -27,7 +27,7 @@ Once we have laid the groundwork, we will go into case studies. The case studies
 
 I welcome other authors and editors. If you have something that you think would add value, I want it! Each chapter will note the author, so readers will know when they hear from a different voice. The book is not meant to be formal, so don't worry about having to create the most polished content. I hope that this feels like a conversation for those reading it.
 
-If you would like to contribute, the books repo is [here]()
+If you would like to contribute, the books repo is [here](https://github.com/matthewcrews/fast-fsharp). You can reach out to me at my email (matthew@crews.email) or on Twitter, @McCrews.
 
 This book is a Hugo website using the [Hugo-Book](https://github.com/alex-shpak/hugo-book#installation) theme, so all you need to contribute is to be able to write some Markdown!
 
