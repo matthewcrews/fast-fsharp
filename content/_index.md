@@ -7,7 +7,7 @@ type: docs
 
 I am obsessed with performance, and I have longed for a book on writing fast F# code. There are some resources out there, but nothing that went to the depth I am interested in. I want to take the same passion that C++ developers take to low latency code and apply it to the F# language. Some may scoff and say this is foolish. I find the challenge interesting.
 
-I hope this book will result from collaboration across the F# community. I plan to publish new chapters at a study pace and solicit feedback from the community. This book will evolve as I learn. I plan to put my best ideas out there and get feedback and correction from the community. I fully anticipate being wrong a great deal of the time. I would rather present my ideas and learn from my mistakes than remain in my ignorance. If you have an idea or suggestion, I want to hear it!
+I hope this book will result from collaboration across the F# community. I plan to publish new chapters at a steady pace and solicit feedback from the community. This book will evolve as I learn. I plan to put my best ideas out there and get feedback and correction from the community. I fully anticipate being wrong a great deal of the time. I would rather present my ideas and learn from my mistakes than remain in my ignorance. If you have an idea or suggestion, I want to hear it!
 
 ## Why am I writing this book?
 
